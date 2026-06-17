@@ -1,4 +1,4 @@
-import resolVillarA.Ejercicio1.MontoAlquiler;
+
 
 abstract class Vehiculo implements MontoAlquiler {
 private String patente;
